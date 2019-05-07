@@ -1,3 +1,5 @@
 # gitskills
 creating a new branch is quick.
-im master
+im master and
+im feature1
+
